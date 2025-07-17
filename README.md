@@ -13,8 +13,8 @@ Chaque ligne du fichier contient 4 champs :
 - Prix unitaire (nombre entier)
 
 ## Exemple :
-Dupon Villebrequin 10 1000
-Duran Brosse 20 567
+- Dupon Villebrequin 10 1000
+- Duran Brosse 20 567
 
 
 ## Variables Utilisées
