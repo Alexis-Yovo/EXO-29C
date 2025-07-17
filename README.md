@@ -11,7 +11,8 @@ Chaque ligne du fichier contient 4 champs :
 - Nom de l'article (texte)
 - Quantité (nombre entier)
 - Prix unitaire (nombre entier)
-
+- 
+## Exemple :
 Dupon Villebrequin 10 1000
 Duran Brosse 20 567
 
